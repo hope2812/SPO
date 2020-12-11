@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  lab2_daughter.cpp
+c:\users\админ\desktop\спо\lab2_daughter\lab2_daughter.cpp(4): warning C4603: _CRT_SECURE_NO_WARNINGS_: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\админ\desktop\спо\lab2_daughter\lab2_daughter.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\админ\desktop\спо\lab2_daughter\lab2_daughter.cpp(5): note: использование предварительно скомпилированного заголовка
+  lab2_daughter.vcxproj -> C:\Users\админ\Desktop\СПО\lab2_daughter\Debug\lab2_daughter.exe
